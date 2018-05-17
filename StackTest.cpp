@@ -1,6 +1,6 @@
-// StackTest.cpp : ÄÜ¼Ö ÀÀ¿ë ÇÁ·Î±×·¥¿¡ ´ëÇÑ ÁøÀÔÁ¡À» Á¤ÀÇÇÕ´Ï´Ù.
+// StackTest.cpp : ì½˜ì†” ì‘ìš© í”„ë¡œê·¸ë¨ì— ëŒ€í•œ ì§„ì…ì ì„ ì •ì˜í•©ë‹ˆë‹¤.
 //
-/* 201825015 ±è¿¹Àº*/
+
 #include "stdafx.h"
 #include <stdio.h>
 #include <stdlib.h>
